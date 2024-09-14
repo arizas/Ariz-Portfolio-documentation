@@ -1,7 +1,7 @@
 # Year report tab
 
 ## General Information:
-**Selected Accounts**: All accounts added in the account tab. Transactions between these accounts are not listed or considered in profit and loss calculations.
+**Selected Accounts**: All accounts added in the account tab. Transactions between these accounts are listed but not considered in profit and loss calculations.
 
 **Deposit Accounts**: Your own accounts used to buy NEAR, such as for swapping and exchanges.
 
